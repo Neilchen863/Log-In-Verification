@@ -1,6 +1,6 @@
 # Shadow Comrade
 
-**Designed for Orbital24 by Hu Tongyan and Chen Jiabao**
+**Designed for Orbital24 by Hu Tongyan and Chen Jiahao**
 
 ## Motivation
 
