@@ -81,7 +81,8 @@ To develop an online anonymous community with two main sections:
 1. For backend, the dependencies are managed by Maven, and detailed dependecies are as follows: Spring web, JDBC API, Spring Data JPA, MySQL Driver,
    which are also listed in pom.xml. And the environment is Java 21.
    
-2. For frontend, after importing the project, first run "yarn install" to complete the project set up, then run "yarn run build".
+2. For frontend, please ensure your laptop is equipped with Node.js (version 8.9 or higher).
+   After importing the project, first run "yarn install" to complete the project set up, then run "yarn run build".
 
 3. For database, please modify springboot-login-demo/src/main/resources/application.properties. Create a local database and set the url, username
    and password in the file to point to the local database.
