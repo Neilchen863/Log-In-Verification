@@ -1,5 +1,4 @@
 # Login Verification System  
-**Developed by [Your Name]**
 
 ## Overview  
 This project implements a login verification system using Spring Boot. The system provides a secure and efficient way to authenticate users, ensuring data protection and preventing unauthorized access.
